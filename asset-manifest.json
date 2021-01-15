@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Single-Page-App/static/css/main.550a5fe8.chunk.css",
+    "main.js": "/Single-Page-App/static/js/main.5cb5f47f.chunk.js",
+    "main.js.map": "/Single-Page-App/static/js/main.5cb5f47f.chunk.js.map",
+    "runtime-main.js": "/Single-Page-App/static/js/runtime-main.abccc732.js",
+    "runtime-main.js.map": "/Single-Page-App/static/js/runtime-main.abccc732.js.map",
+    "static/css/2.78afd4a5.chunk.css": "/Single-Page-App/static/css/2.78afd4a5.chunk.css",
+    "static/js/2.bd75505c.chunk.js": "/Single-Page-App/static/js/2.bd75505c.chunk.js",
+    "static/js/2.bd75505c.chunk.js.map": "/Single-Page-App/static/js/2.bd75505c.chunk.js.map",
+    "index.html": "/Single-Page-App/index.html",
+    "static/css/2.78afd4a5.chunk.css.map": "/Single-Page-App/static/css/2.78afd4a5.chunk.css.map",
+    "static/css/main.550a5fe8.chunk.css.map": "/Single-Page-App/static/css/main.550a5fe8.chunk.css.map",
+    "static/js/2.bd75505c.chunk.js.LICENSE.txt": "/Single-Page-App/static/js/2.bd75505c.chunk.js.LICENSE.txt",
+    "static/media/Google.1f276ddc.jpg": "/Single-Page-App/static/media/Google.1f276ddc.jpg",
+    "static/media/Homepage.deb167eb.jpg": "/Single-Page-App/static/media/Homepage.deb167eb.jpg",
+    "static/media/Navlogo.86b1928f.png": "/Single-Page-App/static/media/Navlogo.86b1928f.png",
+    "static/media/amazon.8b7c8cb9.png": "/Single-Page-App/static/media/amazon.8b7c8cb9.png",
+    "static/media/analytics.6c1637b0.jpg": "/Single-Page-App/static/media/analytics.6c1637b0.jpg",
+    "static/media/androiddev.fc2cf39b.jpg": "/Single-Page-App/static/media/androiddev.fc2cf39b.jpg",
+    "static/media/appdev.74f7ff06.jpg": "/Single-Page-App/static/media/appdev.74f7ff06.jpg",
+    "static/media/dev1.9b810cf9.jpg": "/Single-Page-App/static/media/dev1.9b810cf9.jpg",
+    "static/media/dev2.d556f2ab.jpg": "/Single-Page-App/static/media/dev2.d556f2ab.jpg",
+    "static/media/dev3.511c11fd.jpg": "/Single-Page-App/static/media/dev3.511c11fd.jpg",
+    "static/media/dmarketing.cb9f101b.jpg": "/Single-Page-App/static/media/dmarketing.cb9f101b.jpg",
+    "static/media/microsoft.aa2c5338.jpg": "/Single-Page-App/static/media/microsoft.aa2c5338.jpg",
+    "static/media/sdev.bbcdb6b5.jpg": "/Single-Page-App/static/media/sdev.bbcdb6b5.jpg",
+    "static/media/webdev.e1a2a658.jpg": "/Single-Page-App/static/media/webdev.e1a2a658.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.abccc732.js",
+    "static/css/2.78afd4a5.chunk.css",
+    "static/js/2.bd75505c.chunk.js",
+    "static/css/main.550a5fe8.chunk.css",
+    "static/js/main.5cb5f47f.chunk.js"
+  ]
+}
